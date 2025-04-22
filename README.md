@@ -79,7 +79,7 @@ streamlit run app.py
 3. Aplikasi akan terbuka otomatis di browser. Isi seluruh input data mahasiswa yang tersedia, lalu klik tombol **"Prediksi Status Mahasiswa"** untuk melihat hasil prediksi apakah mahasiswa tersebut akan **Dropout**, **Enrolled**, atau **Graduate**.
 
 **Link aplikasi di Streamlit Cloud**  
-[[Klik untuk membuka aplikasi prediksi dropout mahasiswa](https://dropout-predictor.streamlit.app)]
+[[Klik untuk membuka aplikasi prediksi dropout mahasiswa](https://prediksi-dropout-mahasiswa.streamlit.app/)]
 
 ## Conclusion
 
